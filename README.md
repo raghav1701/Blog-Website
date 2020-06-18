@@ -8,4 +8,4 @@ Go to src folder
 run- python manage.py runserver
 then go to the browser http://127.0.0.1:8000/ to see the website
 
-Hope You Like It
+Hope You Like It.
